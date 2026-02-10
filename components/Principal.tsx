@@ -15,9 +15,8 @@ const Principal: React.FC = () => {
             transition={{ duration: 0.8 }}
             className="relative aspect-[3/4] w-full max-w-md lg:max-w-full mx-auto lg:mx-0 overflow-hidden bg-white/5"
           >
-             {/* Using a placeholder as requested, with grayscale filter for the aesthetic */}
              <img 
-               src="https://picsum.photos/seed/principal/600/800" 
+               src="/principal-headshot.png" 
                alt="Samir Musali"
                className="object-cover w-full h-full grayscale hover:grayscale-0 transition-all duration-1000"
              />

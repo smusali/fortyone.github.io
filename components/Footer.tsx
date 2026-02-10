@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
 
         <div className="flex items-center space-x-6">
            <a 
-             href="https://linkedin.com" 
+             href="https://www.linkedin.com/company/fortyonetechnologies" 
              target="_blank" 
              rel="noreferrer" 
              className="text-brand-grey hover:text-brand-white transition-colors"
@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
              <Linkedin size={20} strokeWidth={1.5} />
            </a>
            <a 
-             href="https://github.com" 
+             href="https://github.com/fortyonetechnologies" 
              target="_blank" 
              rel="noreferrer" 
              className="text-brand-grey hover:text-brand-white transition-colors"
