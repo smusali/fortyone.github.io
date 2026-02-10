@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
             transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
             className="text-6xl md:text-8xl lg:text-9xl font-bold tracking-tighter leading-[0.9] text-brand-white mb-8"
           >
-            Engineering Business Continuity.
+            Engineering Business Continuity
           </motion.h1>
 
           <motion.p
@@ -22,7 +22,8 @@ const Hero: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
             className="text-lg md:text-2xl text-brand-grey max-w-2xl leading-relaxed font-light mb-12"
           >
-            Strategic technical advisory for global enterprises and Series A scale-ups. We bridge the gap between Silicon Valley innovation and Enterprise governance.
+            Strategic Technical Advisory for Global Enterprises.<br />
+            Bridging the Gap between Silicon Valley Innovation and Enterprise Governance.
           </motion.p>
 
           <motion.div
@@ -40,7 +41,7 @@ const Hero: React.FC = () => {
             </a>
             
             <span className="text-brand-grey text-sm tracking-wide uppercase font-medium">
-              Trusted by leadership at YC W23, W15, and Global GovTech Initiatives.
+              Trusted by leadership at YC W23, W15, and various North American startups.
             </span>
           </motion.div>
         </div>

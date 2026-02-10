@@ -38,7 +38,7 @@ const Principal: React.FC = () => {
             
             <div className="space-y-6 text-brand-grey text-lg font-light leading-relaxed max-w-xl">
               <p>
-                Staff Engineer and Technical Architect with 9+ years delivering infrastructure for YC-backed startups and global product organizations.
+                Technical Architect with 10+ years of experience in delivering scalable solutions to North American startups and global product organizations.
               </p>
               <p>
                 Specializing in high-throughput data systems and production AI. Bringing Silicon Valley velocity to Enterprise rigors.
